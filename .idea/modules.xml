@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/otus-java-dev-pro.iml" filepath="$PROJECT_DIR$/.idea/modules/otus-java-dev-pro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jpql/otus-java-dev-pro.jpql.iml" filepath="$PROJECT_DIR$/.idea/modules/jpql/otus-java-dev-pro.jpql.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jpql/otus-java-dev-pro.jpql.main.iml" filepath="$PROJECT_DIR$/.idea/modules/jpql/otus-java-dev-pro.jpql.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jpql/otus-java-dev-pro.jpql.test.iml" filepath="$PROJECT_DIR$/.idea/modules/jpql/otus-java-dev-pro.jpql.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/otus-java-dev-pro.main.iml" filepath="$PROJECT_DIR$/.idea/modules/otus-java-dev-pro.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/otus-java-dev-pro.test.iml" filepath="$PROJECT_DIR$/.idea/modules/otus-java-dev-pro.test.iml" />
+    </modules>
+  </component>
+</project>
